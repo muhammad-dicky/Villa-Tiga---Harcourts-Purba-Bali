@@ -59,7 +59,7 @@ export default function Footer() {
             <div className="flex items-center gap-6 group">
               <div className="w-20 h-20 rounded-full overflow-hidden border-2 border-brand-cyan/30 group-hover:border-brand-cyan transition-colors">
                 <img
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=2576&auto=format&fit=crop"
+                  src="https://harcourtspurbabali.com/wp-content/webp-express/webp-images/uploads/2023/09/bu-siti--150x150.jpg.webp?q=80&w=2576&auto=format&fit=crop"
                   alt="Siti Salmah Purba"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
