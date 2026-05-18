@@ -36,7 +36,7 @@ export default function PhotoGallery() {
           </h3>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 grid-rows-3 gap-6 h-[800px]">
+        <div className="grid grid-cols-2 md:grid-cols-4 grid-rows-3 gap-3 h-[800px]">
           {images.map((img, i) => (
             <div
               key={i}
