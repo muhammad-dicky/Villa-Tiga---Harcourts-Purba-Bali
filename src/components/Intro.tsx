@@ -98,12 +98,7 @@ export default function Intro() {
               </div>
             ))}
             <div className="col-span-2 relative h-64 mt-4 overflow-hidden rounded-xl">
-              <img
-                src="public/tria-1.jpg?q=80&w=2671&auto=format&fit=crop"
-                alt="Villa Interior"
-                referrerPolicy="no-referrer"
-                className="w-full h-full object-cover transition-transform duration-700 hover:scale-110"
-              />
+              <img src="/tria-1.jpg" />
               <div className="absolute inset-0 bg-brand-navy/20"></div>
             </div>
           </div>

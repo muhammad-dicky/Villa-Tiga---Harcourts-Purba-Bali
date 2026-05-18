@@ -2,22 +2,22 @@ import React from "react";
 
 const images = [
   {
-    url: "public/tria-pool.jpg",
+    url: "/tria-pool.jpg",
     title: "The Main Pool",
     span: "col-span-2 row-span-2",
   },
   {
-    url: "public/tria-kitchen.jpg",
+    url: "/tria-kitchen.jpg",
     title: "European Kitchen",
     span: "col-span-1 row-span-1",
   },
   {
-    url: "public/tria-master.jpg",
+    url: "/tria-master.jpg",
     title: "Master Ensuite",
     span: "col-span-1 row-span-1",
   },
   {
-    url: "public/tria-living.jpg",
+    url: "/tria-living.jpg",
     title: "Living Spaces",
     span: "col-span-2 row-span-1",
   },
