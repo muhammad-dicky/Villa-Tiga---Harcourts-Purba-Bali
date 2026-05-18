@@ -1,0 +1,6 @@
+{
+  "name": "Harcourts Purba Bali - Villa Tiga Canggu",
+  "description": "High-end real estate landing page for Villa Tiga in Kayu Tulang, Canggu. Designed for families and built for returns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
